@@ -1,0 +1,140 @@
+Calling printOrcheeseo(""):
+No cookie. :(
+[End of function output.]
+
+
+Calling printOrcheeseo("ogco"):
+==========
+  .,.,.,
+ ~~~~~~~~
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("oggco"):
+==========
+  xoxoxo
+ ~~~~~~~~
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("ogggco"):
+==========
+ xoxoxoxo
+ ~~~~~~~~
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("ogogogo"):
+==========
+  .,.,.,
+==========
+  .,.,.,
+==========
+  .,.,.,
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("ocococo"):
+==========
+ ~~~~~~~~
+==========
+ ~~~~~~~~
+==========
+ ~~~~~~~~
+==========
+Om nom nom! Oreo!
+[End of function output.]
+
+
+Calling printOrcheeseo("cgogggco"):
+ ~~~~~~~~
+  .,.,.,
+==========
+ xoxoxoxo
+ ~~~~~~~~
+==========
+Too messy. :(
+[End of function output.]
+
+
+Calling printOrcheeseo("ocgogggc"):
+==========
+ ~~~~~~~~
+  .,.,.,
+==========
+ xoxoxoxo
+ ~~~~~~~~
+Too messy. :(
+[End of function output.]
+
+
+Calling printOrcheeseo("ocgogggco"):
+==========
+ ~~~~~~~~
+  .,.,.,
+==========
+ xoxoxoxo
+ ~~~~~~~~
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("ogggggggo"):
+==========
+ xoxoxoxo
+xoxoxoxoxo
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("oggggggggo"):
+==========
+  xoxoxo
+ xoxoxoxo
+ xoxoxoxo
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("ogggggggggo"):
+==========
+ xoxoxoxo
+ xoxoxoxo
+ xoxoxoxo
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("oggggggggggo"):
+==========
+ xoxoxoxo
+ xoxoxoxo
+xoxoxoxoxo
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("oggggcggggo"):
+==========
+xoxoxoxoxo
+ ~~~~~~~~
+xoxoxoxoxo
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Finished running test cases.

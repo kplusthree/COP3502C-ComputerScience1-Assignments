@@ -1,0 +1,68 @@
+Calling printOrcheeseo("oggggggggggcoggggggggggo"):
+==========
+ xoxoxoxo
+ xoxoxoxo
+xoxoxoxoxo
+ ~~~~~~~~
+==========
+ xoxoxoxo
+ xoxoxoxo
+xoxoxoxoxo
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("oggggggggggcogggggggggggo"):
+==========
+ xoxoxoxo
+ xoxoxoxo
+xoxoxoxoxo
+ ~~~~~~~~
+==========
+  xoxoxo
+ xoxoxoxo
+ xoxoxoxo
+ xoxoxoxo
+==========
+Om nom nom! Orcheeseo!
+[End of function output.]
+
+
+Calling printOrcheeseo("coggggggggggcogggggggggggo"):
+ ~~~~~~~~
+==========
+ xoxoxoxo
+ xoxoxoxo
+xoxoxoxoxo
+ ~~~~~~~~
+==========
+  xoxoxo
+ xoxoxoxo
+ xoxoxoxo
+ xoxoxoxo
+==========
+Too messy. :(
+[End of function output.]
+
+
+Calling printOrcheeseo("occccgccogoooo"):
+==========
+ ~~~~~~~~
+ ~~~~~~~~
+ ~~~~~~~~
+ ~~~~~~~~
+  .,.,.,
+ ~~~~~~~~
+ ~~~~~~~~
+==========
+  .,.,.,
+==========
+==========
+==========
+==========
+Oh nooooo! Too tall. :(
+[End of function output.]
+
+
+Finished running test cases.

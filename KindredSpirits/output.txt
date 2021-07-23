@@ -1,0 +1,109 @@
+Preorder Count: 1
+Preorder Count: 2
+Preorder Count: 3
+Preorder Count: 4
+Preorder Count: 5
+Preorder Count: 6
+Preorder Array: 23 and 23
+Counter: 0
+In array: 23
+In arrayPtr: 23
+Array 0: 23
+Array 1: 0
+Array 2: 0
+Array 3: 0
+Array 4: 0
+Array 5: 0
+Preorder Array: 12 and 12
+Counter: 1
+In array: 12
+In arrayPtr: 12
+Array 0: 23
+Array 1: 12
+Array 2: 0
+Array 3: 0
+Array 4: 0
+Array 5: 0
+Preorder Array: 5 and 5
+Counter: 2
+In array: 5
+In arrayPtr: 5
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 0
+Array 4: 0
+Array 5: 0
+Preorder Array: 18 and 18
+Counter: 3
+In array: 18
+In arrayPtr: 18
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 0
+Array 5: 0
+Preorder Array: 71 and 71
+Counter: 4
+In array: 71
+In arrayPtr: 71
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 71
+Array 5: 0
+Preorder Array: 56 and 56
+Counter: 5
+In array: 56
+In arrayPtr: 56
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 71
+Array 5: 56
+Compare: 23 and 23
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 71
+Array 5: 56
+Compare: 12 and 12
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 71
+Array 5: 56
+Compare: 5 and 5
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 71
+Array 5: 56
+Compare: 18 and 18
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 71
+Array 5: 56
+Compare: 71 and 71
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 71
+Array 5: 56
+Compare: 56 and 56
+Array 0: 23
+Array 1: 12
+Array 2: 5
+Array 3: 18
+Array 4: 71
+Array 5: 56
+Success!

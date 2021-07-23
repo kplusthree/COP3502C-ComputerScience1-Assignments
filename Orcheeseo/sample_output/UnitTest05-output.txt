@@ -1,0 +1,58 @@
+Calling printGoldfish(0):
+Return value: 0.000 (Hooray!)
+
+Calling printGoldfish(1):
+  .,.,.,
+Return value: 0.100 (Hooray!)
+
+Calling printGoldfish(2):
+  xoxoxo
+Return value: 0.250 (Hooray!)
+
+Calling printGoldfish(3):
+ xoxoxoxo
+Return value: 0.250 (Hooray!)
+
+Calling printGoldfish(4):
+xoxoxoxoxo
+Return value: 0.250 (Hooray!)
+
+Calling printGoldfish(5):
+  xoxoxo
+ xoxoxoxo
+Return value: 0.500 (Hooray!)
+
+Calling printGoldfish(6):
+ xoxoxoxo
+ xoxoxoxo
+Return value: 0.500 (Hooray!)
+
+Calling printGoldfish(7):
+ xoxoxoxo
+xoxoxoxoxo
+Return value: 0.500 (Hooray!)
+
+Calling printGoldfish(8):
+  xoxoxo
+ xoxoxoxo
+ xoxoxoxo
+Return value: 0.750 (Hooray!)
+
+Calling printGoldfish(9):
+ xoxoxoxo
+ xoxoxoxo
+ xoxoxoxo
+Return value: 0.750 (Hooray!)
+
+Calling printGoldfish(10):
+ xoxoxoxo
+ xoxoxoxo
+xoxoxoxoxo
+Return value: 0.750 (Hooray!)
+
+Calling printGoldfish(11):
+  xoxoxo
+ xoxoxoxo
+ xoxoxoxo
+ xoxoxoxo
+Return value: 1.000 (Hooray!)

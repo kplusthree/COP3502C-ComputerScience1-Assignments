@@ -1,0 +1,15 @@
+ ~~~~~~~~
+==========
+ xoxoxoxo
+ xoxoxoxo
+xoxoxoxoxo
+ ~~~~~~~~
+==========
+  xoxoxo
+ xoxoxoxo
+ xoxoxoxo
+ xoxoxoxo
+==========
+Too messy. :(
+
+Back in main(): "coggggggggggcogggggggggggo"
